@@ -57,7 +57,7 @@ rollCall.sayAllName.apply(window,["A","B","C"]); // Teacher A B C
 // call 将参数直接传递，使用逗号分隔
 rollCall.sayAllName.call(window,"A","B","C"); // Teacher A B C
 
-// bind 仅将对象绑定，并不立即执行，其返回值是一个函数，传参方式与 call 相同
+// bind 仅将对象绑定，并不立即执行，其返回值是一个函数，传参方式与 call 相同 ，想要立即执行可以在后边再加一个小括号（
 var convertThis = rollCall.sayAllName.bind(window,"A","B","C"); 
 convertThis(); // Teacher A B C
 ```
