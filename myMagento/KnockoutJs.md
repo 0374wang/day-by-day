@@ -1,0 +1,1 @@
+![image-20220421112130072](C:\Users\k\Desktop\day-by-day\myMagento\KnockoutJs.assets\image-20220421112130072.png)
