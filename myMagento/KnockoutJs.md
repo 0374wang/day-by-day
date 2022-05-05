@@ -1,1 +1,2 @@
-![image-20220421112130072](C:\Users\k\Desktop\day-by-day\myMagento\KnockoutJs.assets\image-20220421112130072.png)
+knockout, 那你用这个吧, 我兼容ie8的时候用过
+
